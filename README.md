@@ -1,9 +1,3 @@
-# show_links.py - Interactive Task Relationship Visualizer
-
-**Purpose**: Visualizes hierarchical relationships between tasks and their notes in a todo.txt based task management system.
-
----
-
 ## TABLE OF CONTENTS
 
 1. [Core Concepts](#core-concepts)
