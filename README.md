@@ -8,7 +8,6 @@
 6. [Relationship Building](#relationship-building)
 7. [Display Logic](#display-logic)
 8. [User Commands](#user-commands)
-9. [Complete Examples](#complete-examples)
 
 ---
 
